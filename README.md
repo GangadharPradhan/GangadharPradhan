@@ -1,4 +1,4 @@
-### Hi 👋 I am Gangadhar Pradhan
+### Hi 👋 I m Gangadhar Pradhan
 
 <!--
 **GangadharPradhan/GangadharPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
