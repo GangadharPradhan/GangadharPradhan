@@ -1,10 +1,15 @@
-👋 Hi, I’m Gangadhar Pradhan
-💻 Frontend Developer focused on building dynamic, responsive web applications
+👋 Hi, I'm **Gangadhar Pradhan**
 
-🌱 Currently diving into Node.js, Express, and MongoDB to become a Full Stack Developer
+💻 Senior Frontend Developer | Senior Software Engineer
 
-⚙️ Working on projects using React, Vue.js, Redux, and Vuex
+🚀 Experienced in building scalable, responsive, and high-performance web applications using Vue.js, React.js, Next.js, and TypeScript.
 
-🤝 Open to collaboration on frontend and full-stack projects
+⚙️ Skilled in developing reusable components, state management, API integration, and frontend performance optimization.
+
+🌱 Knowledge of Node.js, Express.js, and MongoDB, with an understanding of full-stack development concepts.
+
+🤝 Open to collaborating on exciting frontend and full-stack projects.
+
+✨ Always passionate about learning, building, and solving real-world problems.
 
 📬 Reach me at: gangadharpradhan425@gmail.com
