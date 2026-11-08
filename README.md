@@ -1,6 +1,6 @@
 👋 Hi, I'm **Gangadhar Pradhan**
 
-💻 Senior Frontend Developer | Senior Software Engineer
+💻 Senior Software Engineer
 
 🚀 Experienced in building scalable, responsive, and high-performance web applications using Vue.js, React.js, Next.js, and TypeScript.
 
